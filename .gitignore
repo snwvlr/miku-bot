@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+discord-bot/node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.production
+discord-bot/.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build output
+dist/
+build/
+
+# Temp
+.tmp/
+temp/
